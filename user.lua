@@ -1,8 +1,8 @@
 local gfs             = require("gears.filesystem")
 local _User           = {}
 
-_User.Name            = "Nguyen Thanh Son"
-_User.Username        = "@sownteedev"
+_User.Name            = "Arno"
+_User.Username        = "@arno"
 
 _User.Colorscheme     = "dark"
 _User.Font            = ""
